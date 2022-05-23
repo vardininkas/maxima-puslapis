@@ -1,0 +1,93 @@
+.pilkasisdivas {
+    background-color: rgb(117, 115, 115);
+    display: flex;
+    justify-content: center;
+  
+    
+
+}
+
+
+main{  
+    width: 70%;
+    
+    text-align: center;
+ }
+
+
+
+header img{
+    width: 45%;
+}
+
+
+
+header {
+    
+    width: 100%;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    }
+header h1{
+    text-decoration: solid;
+}
+header a{
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.apiemus{
+    width: 100%;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.apiemus img{
+    width: 100%;
+}
+.apiemus p{
+    text-align: justify;
+}
+.produktai{
+    width: 100%;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 40px;
+}
+.produktai h4{
+    padding: 0px;
+    margin: 0px;
+}
+.produktai p{
+    padding: 0px;
+    margin: 0px;
+}
+.produktai img{
+    width: 100px;
+    height: 100px;
+}
+.produktai p span{
+    text-decoration: solid;
+}
+#idid {
+    text-decoration: solid;
+}
+.kontaktai{
+    width: 100%;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+ul{
+    float: left;
+}
+.kontaktai img{
+    width: 100%;
+}
